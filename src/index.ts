@@ -4,5 +4,5 @@ window.Webflow ||= [];
 window.Webflow.push(() => {
   const name = 'han dong hoon';
   greetUser(name);
-  document.body.style.backgroundColor = 'blue';
+  document.body.style.backgroundColor = 'black';
 });
